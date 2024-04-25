@@ -19,3 +19,8 @@ body{
 .titulo-secundario{
     font-size: 24px;
 }
+.jacquard-24-regular {
+    font-family: "Jacquard 24", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
